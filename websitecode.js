@@ -1,4 +1,4 @@
 console.log("idk");
 function i_am_kerchoo() {
-    alert("wow you click a usless button");
+    alert("if help in needed pleace contact me on discord no u#3708");
     }
